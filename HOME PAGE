@@ -1,7 +1,17 @@
 <DOCTYPE html>
-<html>
+<html lang="en-US">
 <head>
 <title> Home Page </title>
 </head>
-<h1> Destressed</h1>
+<body>
+
+<h1 style="color:maroon">Hompage</h1>
+<h2> Destressed</h2>
+<h3> A repreive from the stress of day to day activities</h3>
+<p title="I'm a tooltip" style="color:gray">
+Feel free to click on whatever you choose. From meditation tips, to soothing displays, to relaxing music, there are endless ways to destress!
+</p>
+
+
+</body>
 </html>
